@@ -20,4 +20,4 @@ https://bugs.python.org.
 * Mailing list: [pydotorg-www](https://mail.python.org/mailman/listinfo/pydotorg-www)
 * IRC: `#pydotorg` on Freenode
 * Staging site: https://staging.python.org/ (`master` branch)
-* License: Apache License
+* License: Apache Licens
